@@ -10,7 +10,7 @@
 }
 
 body{
-    background-image: url("file:///home/stagiaire/Bureau/formation_afpa_de_castro_sara/html/exercice_application/assets/img/fond.png");
+    background-image: url("../../assets/img/fond.png");
     background-size: auto;
     background-position: top left;
     margin:0px;
@@ -195,7 +195,7 @@ html {
     display:table-cell;
     text-align: center;
     width:25%;
-    background-image: url('/home/stagiaire/Bureau/formation_afpa_de_castro_sara/html/exercice_application/assets/img/lapin.jpg');
+    background-image: url('../../assets/img/lapin.jpg');
     background-size:cover;
     background-position: center;
     padding-right:10px;
